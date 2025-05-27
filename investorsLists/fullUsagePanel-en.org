@@ -41,24 +41,23 @@
 
 https://www.thevccorner.com/p/the-ultimate-investor-list-of-lists
 
-* All VCs
 
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | Lbl | List Name                                                | Source Format | Capture Date     | Links   | PrnScrn | Comments           |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | aa  | All VCs                                                  | folk          |                  |         |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| bb  | No Warm Intro Required Investor List                     | Airtable      | <2025-05-26 Mon> | [[file:bb.csv][bb.csv]]  | [[file:bb.png][bb.png]]  |                    |
+| bb  | No Warm Intro Required Investor List                     | Airtable      | <2025-05-26 Mon> | [[file:data/bb.csv][bb.csv]]  | [[file:data/bb.png][bb.png]]  |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| cc  | VC Fund Database for Early-Stage Startups                | Airtable      | <2025-05-26 Mon> | [[file:earlyStage.csv][cc.csv]]  |         |                    |
+| cc  | VC Fund Database for Early-Stage Startups                | Airtable      | <2025-05-26 Mon> | [[file:data/earlyStage.csv][cc.csv]]  |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | dd  | European Family Offices' Founders                        | folk          |                  |         |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| ee  | Active VCs                                               | Airtable      | <2025-05-26 Mon> | [[file:ee.html][ee.html]] |         |                    |
+| ee  | Active VCs                                               | Airtable      | <2025-05-26 Mon> | [[file:data/ee.html][ee.html]] |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | ff  | Corporate Venture Arms                                   | folk          |                  |         |         | Can be very useful |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| gg  | Active Pre-Seed Investors                                | Airtable      | <2025-05-26 Mon> | [[file:preSeed.csv][gg.csv]]  |         |                    |
+| gg  | Active Pre-Seed Investors                                | Airtable      | <2025-05-26 Mon> | [[file:data/preSeed.csv][gg.csv]]  |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | hh  | 100 VC Firms Investing In SaaS                           | folk          |                  |         |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
@@ -66,35 +65,35 @@ https://www.thevccorner.com/p/the-ultimate-investor-list-of-lists
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | jj  | 100 Best VC Funds in UK                                  | folk          |                  |         |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| kk  | VC Fund Database for Early-Stage Startups                | Airtable      | <2025-05-26 Mon> | [[file:startups.csv][kk.csv]]  |         |                    |
+| kk  | VC Fund Database for Early-Stage Startups                | Airtable      | <2025-05-26 Mon> | [[file:data/startups.csv][kk.csv]]  |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | ll  | +200 US AI Angel Investors                               | folk          |                  |         |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| mm  | US Founders Who Invest in Others as Angels               | Airtable      | <2025-05-26 Mon> | [[file:founders.csv][mm.csv]]  |         |                    |
+| mm  | US Founders Who Invest in Others as Angels               | Airtable      | <2025-05-26 Mon> | [[file:data/founders.csv][mm.csv]]  |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | nn  | 300 Australian Early-Stage Investors                     | folk          |                  |         |         | Unused             |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| oo  | SaaS Angel Investors (Globally)                          | Airtable      | <2025-05-26 Mon> | [[file:saas.csv][oo.csv]]  |         |                    |
+| oo  | SaaS Angel Investors (Globally)                          | Airtable      | <2025-05-26 Mon> | [[file:data/saas.csv][oo.csv]]  |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | pp  | 350+ Most Active Angel Investors in USA                  | folk          |                  |         |         | Desired            |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| qq  | List of Family Offices Investing Pre-Seed                | Airtable      | <2025-05-26 Mon> | [[file:familyOffices.csv][qq.csv]]  |         |                    |
+| qq  | List of Family Offices Investing Pre-Seed                | Airtable      | <2025-05-26 Mon> | [[file:data/familyOffices.csv][qq.csv]]  |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | rr  | US Women Angels List                                     | Airtable      |                  |         |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| ss  | New VC Funds at / Below $200M in Size                    | Spreadsheet   | <2025-05-26 Mon> | [[file:newVcFunds.ods][ss.ods]]  |         |                    |
+| ss  | New VC Funds at / Below $200M in Size                    | Spreadsheet   | <2025-05-26 Mon> | [[file:data/newVcFunds.ods][ss.ods]]  |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| tt  | Investors and Accelerators for Underrepresented Founders | Airtable      | <2025-05-26 Mon> | [[file:underrepresented.csv][tt]]      |         |                    |
+| tt  | Investors and Accelerators for Underrepresented Founders | Airtable      | <2025-05-26 Mon> | [[file:data/underrepresented.csv][tt.csv]]  |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | uu  | Ultimate Climate Investor List                           | Web           |                  |         |         | Unused             |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | vv  | FoodTech Investors List                                  | Airtable      |                  |         |         | Unused             |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| xx  | Crypto Angel Investors                                   | Spreadsheet   | <2025-05-26 Mon> | [[file:crypto.ods][xx.ods]]  |         |                    |
+| xx  | Crypto Angel Investors                                   | Spreadsheet   | <2025-05-26 Mon> | [[file:data/crypto.ods][xx.ods]]  |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| yy  | African Angel Investors                                  | Spreadsheet   | <2025-05-26 Mon> | [[file:africa.ods][yy.ods]]  |         |                    |
+| yy  | African Angel Investors                                  | Spreadsheet   | <2025-05-26 Mon> | [[file:data/africa.ods][yy.ods]]  |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
-| zz  | Angel Investors from Diverse Backgrounds                 | Airtable      | <2025-05-26 Mon> | [[file:diverse.csv][zz.csv]]  |         |                    |
+| zz  | Angel Investors from Diverse Backgrounds                 | Airtable      | <2025-05-26 Mon> | [[file:data/diverse.csv][zz.csv]]  |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 
 * -B|
