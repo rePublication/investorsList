@@ -37,10 +37,11 @@
 ** Overview Comes Here.
 ** -B|
 * +
+####+BEGIN: bx:dblock:global:file-insert :file "./README.org"
+
 * Here’s the Ultimate Investor List of Lists 👇
 
 https://www.thevccorner.com/p/the-ultimate-investor-list-of-lists
-
 
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | Lbl | List Name                                                | Source Format | Capture Date     | Links   | PrnScrn | Comments           |
@@ -95,6 +96,8 @@ https://www.thevccorner.com/p/the-ultimate-investor-list-of-lists
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
 | zz  | Angel Investors from Diverse Backgrounds                 | Airtable      | <2025-05-26 Mon> | [[file:data/diverse.csv][zz.csv]]  |         |                    |
 |-----+----------------------------------------------------------+---------------+------------------+---------+---------+--------------------|
+
+####+END
 
 * -B|
 ####+BEGIN: blee:bxPanel:separator :outLevel 1
